@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DevelopKim's Haroo]]></title><description><![CDATA[Romantic-Oriented Haroo]]></description><link>http://haroo.developk.im</link><image><url>http://haroo.developk.im/public/img/favorite.png</url><title>DevelopKim&apos;s Haroo</title><link>http://haroo.developk.im</link></image><generator>NodeJS RSS Module</generator><lastBuildDate>Sat, 05 Jan 2013 15:52:52 GMT</lastBuildDate><atom:link href="http://haroo.developk.im/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[New Post]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/739565b8aae094eab10b76189a9f0585?r=pg&s=48.jpg&d=identicon"><br/><h3 id="toc_3">여기다가 쓰면 되는 것인가?!</h3>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DevelopKim's Haroo]]></title><description><![CDATA[Romantic-Oriented Haroo]]></description><link>http://developkim.github.com</link><image><url>http://developkim.github.com/public/img/favorite.png</url><title>DevelopKim&apos;s Haroo</title><link>http://developkim.github.com</link></image><generator>NodeJS RSS Module</generator><lastBuildDate>Sat, 05 Jan 2013 16:12:06 GMT</lastBuildDate><atom:link href="http://developkim.github.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[New Post]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/739565b8aae094eab10b76189a9f0585?r=pg&s=48.jpg&d=identicon"><br/><h3 id="toc_3">여기다가 쓰면 되는 것인가?!</h3>
 
 <ul>
 <li>네.... 그렇군요.</li>
@@ -19,7 +19,7 @@
 <li>개발 관련 ?</li>
 <li>developk.im을 대체?</li>
 </ul>
-]]></description><link>http://haroo.developk.im/post/new-post</link><guid isPermaLink="false">new-post</guid><dc:creator><![CDATA[<a href="" target="_blank">DevelopKim</a>]]></dc:creator><pubDate>Thu, 03 Jan 2013 19:03:00 GMT</pubDate></item><item><title><![CDATA[Welcome to haroopress]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/a8618a255192bd842fdd62d099776735?r=pg&s=48.jpg&d=identicon"><br/><h3 id="toc_14">환영합니다.</h3>
+]]></description><link>http://developkim.github.com/post/new-post</link><guid isPermaLink="false">new-post</guid><dc:creator><![CDATA[<a href="" target="_blank">DevelopKim</a>]]></dc:creator><pubDate>Thu, 03 Jan 2013 19:03:00 GMT</pubDate></item><item><title><![CDATA[Welcome to haroopress]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/a8618a255192bd842fdd62d099776735?r=pg&s=48.jpg&d=identicon"><br/><h3 id="toc_14">환영합니다.</h3>
 
 <ul>
 <li>Welcome</li>
@@ -60,4 +60,4 @@
 <ul>
 <li><a href="https://github.com/rhiokim/haroopress/wiki/Change-History">변경 이력</a></li>
 </ul>
-]]></description><link>http://haroo.developk.im/post/welcome-to-haroopress</link><guid isPermaLink="false">welcome-to-haroopress</guid><dc:creator><![CDATA[<a href="haroopress" target="_blank">haroopress</a>]]></dc:creator><pubDate>Tue, 21 Feb 2012 00:00:00 GMT</pubDate></item></channel></rss>
+]]></description><link>http://developkim.github.com/post/welcome-to-haroopress</link><guid isPermaLink="false">welcome-to-haroopress</guid><dc:creator><![CDATA[<a href="haroopress" target="_blank">haroopress</a>]]></dc:creator><pubDate>Tue, 21 Feb 2012 00:00:00 GMT</pubDate></item></channel></rss>
