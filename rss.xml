@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DevelopKim's Haroo]]></title><description><![CDATA[Romantic-Oriented Haroo]]></description><link>http://haroo.developk.im</link><image><url>http://haroo.developk.im/public/img/favorite.png</url><title>DevelopKim&apos;s Haroo</title><link>http://haroo.developk.im</link></image><generator>NodeJS RSS Module</generator><lastBuildDate>Sat, 05 Jan 2013 15:52:52 GMT</lastBuildDate><atom:link href="http://haroo.developk.im/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[New Post]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/739565b8aae094eab10b76189a9f0585?r=pg&s=48.jpg&d=identicon"><br/><h3 id="toc_3">여기다가 쓰면 되는 것인가?!</h3>
+
+<ul>
+<li>네.... 그렇군요.</li>
+</ul>
+
+<h3 id="toc_4">내일은</h3>
+
+<ul>
+<li>Github에 올리고 </li>
+<li>도메인 연결 해야지.. <a href="http://haroo.developk.im/">haroo.developk.im</a> 으로... </li>
+</ul>
+
+<h3 id="toc_5">뭘 적을까?</h3>
+
+<ul>
+<li>하루 하루 일상적인??</li>
+<li>개발 관련 ?</li>
+<li>developk.im을 대체?</li>
+</ul>
+]]></description><link>http://haroo.developk.im/post/new-post</link><guid isPermaLink="false">new-post</guid><dc:creator><![CDATA[<a href="" target="_blank">DevelopKim</a>]]></dc:creator><pubDate>Thu, 03 Jan 2013 19:03:00 GMT</pubDate></item><item><title><![CDATA[Welcome to haroopress]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/a8618a255192bd842fdd62d099776735?r=pg&s=48.jpg&d=identicon"><br/><h3 id="toc_14">환영합니다.</h3>
+
+<ul>
+<li>Welcome</li>
+<li>歡迎</li>
+<li>bienvenida</li>
+<li>accueil</li>
+<li>willkommen</li>
+<li>ようこそ</li>
+<li>välkommet</li>
+<li>grata</li>
+<li>добро пожаловать</li>
+</ul>
+
+<h3 id="toc_15">Intro</h3>
+<p>하루프레스는 하루의 이야기를 블로깅하기 위한 정적 페이지 블로그 엔진입니다.</p>
+<h3 id="toc_16">Haroopress?</h3>
+
+<ul>
+<li><a href="http://haroopress.com/about/">하루프레스?</a></li>
+<li><a href="http://haroopress.com/slides/">하루프레스 웹 프리젠테이션</a></li>
+<li><a href="http://haroopress.com/book/">하루프레스 eBook</a></li>
+<li><a href="http://haroopress.com/diary">하루프레스 개발 다이어리</a></li>
+</ul>
+
+<h3 id="toc_17">Usage</h3>
+
+<ul>
+<li><a href="http://haroopress.com/post/haroopress-install-guide-movie/">5분만에 설치하는 하루프레스 동영상</a></li>
+<li><a href="http://haroopress.com/post/haroopress-quick-guide/">하루프레스 퀵 가이드</a></li>
+<li><a href="http://haroopress.com/post/haroopress-posting-guide/">하루프레스 포스팅 가이드</a></li>
+<li><a href="http://haroopress.com/post/haroopress-default-data-format/">하루프레스 기본 데이터 규약</a></li>
+<li><a href="http://haroopress.com/post/haroopress-update-my-profile/">하루프레스 저작자 프로파일 수정하기</a></li>
+<li><a href="http://haroopress.com/post/harupeureseu-hwangyeongseoljeong-hagi/">하루프레스 환경설정 하기</a></li>
+</ul>
+
+<h3 id="toc_18">History</h3>
+
+<ul>
+<li><a href="https://github.com/rhiokim/haroopress/wiki/Change-History">변경 이력</a></li>
+</ul>
+]]></description><link>http://haroo.developk.im/post/welcome-to-haroopress</link><guid isPermaLink="false">welcome-to-haroopress</guid><dc:creator><![CDATA[<a href="haroopress" target="_blank">haroopress</a>]]></dc:creator><pubDate>Tue, 21 Feb 2012 00:00:00 GMT</pubDate></item></channel></rss>
